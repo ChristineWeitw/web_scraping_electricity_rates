@@ -6,4 +6,4 @@ Introducing our recent project, Web Scraping for AI applications. This project f
 
 The extracted data will be used to build an AI application for analyzing and predicting electricity rates.
 
-![Screenshot Description](images/web_scraping.png)
+![Screenshot Description](web_scraping.png)
